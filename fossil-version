@@ -1,0 +1,11 @@
+project-name: <unnamed>
+repository:   /mnt/sda5/holding/projects/a2dp-alsa/../a2dp-alsa.fossil
+local-root:   /mnt/sda5/holding/projects/a2dp-alsa/
+config-db:    /root/.fossil
+project-code: 528ff0d03b7578f1a5cd4fc7bc428e4d1439c5cd
+checkout:     083b049fff621103f0373b35d0edb64e633adf6d 2016-01-01 19:51:03 UTC
+parent:       4b8cc73b5874f4c5b6d65da036f0b9c77d1bfbbd 2016-01-01 19:25:43 UTC
+tags:         trunk
+comment:      update README with asoundrc sample that uses "rate" plugin to
+              force resampling to 44.1kHz by default. (user: james)
+check-ins:    43
